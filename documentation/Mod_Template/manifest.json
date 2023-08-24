@@ -1,9 +1,9 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Basil",
+    "description": "From Omori",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "Keter"
     },
     "icons":
     {
@@ -89,9 +89,7 @@
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/sys_cursor1.rpgmvo.mp3"
                 ],
                 "TYPING_SPACE":
                 [
